@@ -5,6 +5,7 @@ A portfolio of my LeetCode Solutions. The notebooks will contain all iterations 
 |        Problem           |  Difficulty   |
 | ------------------------ | ------------- |
 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |
+| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy |
 |        [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)           |  Easy   |
 |        [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)           |  Easy   |
 |        [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)           |  Easy   |
