@@ -2,5 +2,6 @@
 A portfolio of my LeetCode Solutions. Intends to show my coding progress over time.
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+|        Proble            |  Difficulty   |
+| ------------------------ | ------------- |
+| Running Sum of 1d Array(http://google.com)  |     Easy      |
