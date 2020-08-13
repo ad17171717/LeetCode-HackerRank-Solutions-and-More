@@ -4,4 +4,4 @@ A portfolio of my LeetCode Solutions. Intends to show my coding progress over ti
 
 |        Proble            |  Difficulty   |
 | ------------------------ | ------------- |
-| [Running Sum of 1d Array](http://google.com)  |     Easy      |
+| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |
