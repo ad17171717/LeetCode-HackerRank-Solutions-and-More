@@ -38,6 +38,7 @@ A portfolio of my LeetCode Solutions. The notebooks will contain all iterations 
 |        [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)           |  Easy   |
 |        [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)           |  Easy   |
 |        [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)           |  Easy   |
+|        [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)           |  Easy   |
 |        [Majority Element](https://leetcode.com/problems/majority-element)           |  Easy   |
 |        [Monotonic Array](https://leetcode.com/problems/monotonic-array)           |  Easy   |
 |        [Move Zeroes ](https://leetcode.com/problems/move-zeroes)           |  Easy   |
