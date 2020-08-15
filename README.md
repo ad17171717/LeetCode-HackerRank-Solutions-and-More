@@ -3,28 +3,28 @@ A portfolio of my LeetCode Solutions. The notebooks will contain all iterations 
 
 
 |        Problem           |  Difficulty   |  Language  |
-| ------------------------ | ------------- || --------- |
-| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |  Python  |
-| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy |  Python  |
-|        [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)           |  Easy   |  Python  |
-|        [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)           |  Easy   |  Python  |
-|        [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)           |  Easy   |  Python  |
-|        [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)           |  Easy   |  Python  |
-|        [Shuffle String](https://leetcode.com/problems/shuffle-string)           |  Easy   |  Python  |
-|        [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)        |  Easy   |  Python|
-|        [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)           |  Easy   |  Python  |
-|        [Create Target Array in the Given Order ](https://leetcode.com/problems/create-target-array-in-the-given-order)           |  Easy   |  Python  |
-|        [Find Numbers with Even Number of Digits ](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)           |  Easy   |  Python  |
-|        [To Lower Case ](https://leetcode.com/problems/to-lower-case)           |  Easy   |  Python  |
-|        [Number of Students Doing Homework at a Given Time ](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)           |  Easy   |  Python  |
-|        [Maximum Product of Two Elements in an Array ](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)           |  Easy   |  Python  |
-|        [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)           |  Easy   |  Python  |
-|        [Big Countries](https://leetcode.com/problems/big-countries)           |  Easy   |  SQL  |
-|        [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)           |  Easy   |  Python  |
-|        [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)           |  Easy   |  Python  |
-|        [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)           |  Easy   |  Python  |
-|        [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)           |  Easy   |  Python  |
-|        [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)           |  Easy   |  Python  |
+| ------------------------ | ------------- | ---------- |
+|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |  Python  |
+|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy |  Python  |
+|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)           |  Easy   |  Python  |
+|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)           |  Easy   |  Python  |
+|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)           |  Easy   |  Python  |
+|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)           |  Easy   |  Python  |
+|[Shuffle String](https://leetcode.com/problems/shuffle-string)           |  Easy   |  Python  |
+|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)        |  Easy   |  Python|
+|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)           |  Easy   |  Python  |
+|[Create Target Array in the Given Order ](https://leetcode.com/problems/create-target-array-in-the-given-order)           |  Easy   |  Python  |
+|[Find Numbers with Even Number of Digits ](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)           |  Easy   |  Python  |
+|[To Lower Case ](https://leetcode.com/problems/to-lower-case)           |  Easy   |  Python  |
+|[Number of Students Doing Homework at a Given Time ](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)           |  Easy   |  Python  |
+|[Maximum Product of Two Elements in an Array ](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)           |  Easy   |  Python  |
+|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)           |  Easy   |  Python  |
+|[Big Countries](https://leetcode.com/problems/big-countries)           |  Easy   |  SQL  |
+|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)           |  Easy   |  Python  |
+|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)           |  Easy   |  Python  |
+|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)           |  Easy   |  Python  |
+|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)           |  Easy   |  Python  |
+|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)           |  Easy   |  Python  |
 |        [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)           |  Easy   |  Python  |
 |        [Array Partition I](https://leetcode.com/problems/array-partition-i)           |  Easy   |  Python  |
 |        [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)           |  Easy   |  Python  |
@@ -57,4 +57,3 @@ A portfolio of my LeetCode Solutions. The notebooks will contain all iterations 
 |        [Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
 |        [Reverse Integer](https://leetcode.com/problems/reverse-integer)           |  Easy   |  Python  |
 |        [Permutations](https://leetcode.com/problems/permutations)           |  Medium   |  Python  |
-
