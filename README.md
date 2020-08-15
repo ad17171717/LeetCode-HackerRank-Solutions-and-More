@@ -2,7 +2,7 @@
 A portfolio of my LeetCode Solutions. The notebooks will contain all iterations of my solutions. Intends to show my coding progress over time.
 
 
-|        Problem           |  Difficulty   |  Language  |
+|        Problem Link to LeetCode           |  Difficulty   |  Language  |
 | ------------------------ | ------------- | ---------- |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |  Python  |
 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy |  Python  |
