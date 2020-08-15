@@ -25,35 +25,35 @@ A portfolio of my LeetCode Solutions. The notebooks will contain all iterations 
 |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)           |  Easy   |  Python  |
 |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)           |  Easy   |  Python  |
 |[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)           |  Easy   |  Python  |
-|        [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)           |  Easy   |  Python  |
-|        [Array Partition I](https://leetcode.com/problems/array-partition-i)           |  Easy   |  Python  |
-|        [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)           |  Easy   |  Python  |
-|        [Height Checker](https://leetcode.com/problems/height-checker)           |  Easy   |
-|        [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) |  Easy   |  Python  |
-|        [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)           |  Easy   |  Python  |
-|        [Reverse String](https://leetcode.com/problems/reverse-string)           |  Easy   |  Python  |
-|        [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)           |  Easy   |  Python  |
-|        [Single Number](https://leetcode.com/problems/single-number)           |  Easy   |  Python  |
-|        [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array)           |  Easy   |  Python  |
-|        [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)           |  Easy   |  Python  |
-|        [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)           |  Easy   |  Python  |
-|        [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)           |  Easy   |  Python  |
-|        [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)     |  Easy   |  Python  |
-|        [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)           |  Easy   |  Python  |
-|        [Binary Number with Alternating Bits ](https://leetcode.com/problems/binary-number-with-alternating-bits)         |  Easy   |  Python  |
-|        [Majority Element](https://leetcode.com/problems/majority-element)           |  Easy   |  Python  |
-|        [Monotonic Array](https://leetcode.com/problems/monotonic-array)           |  Easy   |  Python  |
-|        [Move Zeroes ](https://leetcode.com/problems/move-zeroes)           |  Easy   |  Python  |
-|        [Add Digits](https://leetcode.com/problems/add-digits)           |  Easy   |  Python  |
-|        [Detect Capital](https://leetcode.com/problems/detect-capital)           |  Easy   |  Python  |
-|        [Palindrome Number](https://leetcode.com/problems/palindrome-number)           |  Easy   |  Python  |
-|        [Power of Two](https://leetcode.com/problems/power-of-two)           |  Easy   |  Python  |
-|        [Plus One](https://leetcode.com/problems/plus-one)           |  Easy   |  Python  |
-|        [Power of Three](https://leetcode.com/problems/power-of-three)           |  Easy   |  Python  |
-|        [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)           |  Easy   |  Python  |
-|        [Power of Four](https://leetcode.com/problems/power-of-four)           |  Easy   |  Python  |
-|        [Sqrt(x) ](https://leetcode.com/problems/sqrtx)           |  Easy   |  Python  |
-|        [Length of Last Word](https://leetcode.com/problems/length-of-last-word)           |  Easy   |  Python  |
-|        [Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
-|        [Reverse Integer](https://leetcode.com/problems/reverse-integer)           |  Easy   |  Python  |
-|        [Permutations](https://leetcode.com/problems/permutations)           |  Medium   |  Python  |
+|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)           |  Easy   |  Python  |
+|[Array Partition I](https://leetcode.com/problems/array-partition-i)           |  Easy   |  Python  |
+|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)           |  Easy   |  Python  |
+|[Height Checker](https://leetcode.com/problems/height-checker)           |  Easy   |  Python  |
+|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) |  Easy   |  Python  |
+|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)           |  Easy   |  Python  |
+|[Reverse String](https://leetcode.com/problems/reverse-string)           |  Easy   |  Python  |
+|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)           |  Easy   |  Python  |
+|[Single Number](https://leetcode.com/problems/single-number)           |  Easy   |  Python  |
+|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array)           |  Easy   |  Python  |
+|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)           |  Easy   |  Python  |
+|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)           |  Easy   |  Python  |
+|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)           |  Easy   |  Python  |
+|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)     |  Easy   |  Python  |
+|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)           |  Easy   |  Python  |
+|[Binary Number with Alternating Bits ](https://leetcode.com/problems/binary-number-with-alternating-bits)         |  Easy   |  Python  |
+|[Majority Element](https://leetcode.com/problems/majority-element)           |  Easy   |  Python  |
+|[Monotonic Array](https://leetcode.com/problems/monotonic-array)           |  Easy   |  Python  |
+|[Move Zeroes ](https://leetcode.com/problems/move-zeroes)           |  Easy   |  Python  |
+|[Add Digits](https://leetcode.com/problems/add-digits)           |  Easy   |  Python  |
+|[Detect Capital](https://leetcode.com/problems/detect-capital)           |  Easy   |  Python  |
+|[Palindrome Number](https://leetcode.com/problems/palindrome-number)           |  Easy   |  Python  |
+|[Power of Two](https://leetcode.com/problems/power-of-two)           |  Easy   |  Python  |
+|[Plus One](https://leetcode.com/problems/plus-one)           |  Easy   |  Python  |
+|[Power of Three](https://leetcode.com/problems/power-of-three)           |  Easy   |  Python  |
+|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)           |  Easy   |  Python  |
+|[Power of Four](https://leetcode.com/problems/power-of-four)           |  Easy   |  Python  |
+|[Sqrt(x) ](https://leetcode.com/problems/sqrtx)           |  Easy   |  Python  |
+|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)           |  Easy   |  Python  |
+|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
+|[Reverse Integer](https://leetcode.com/problems/reverse-integer)           |  Easy   |  Python  |
+|[Permutations](https://leetcode.com/problems/permutations)           |  Medium   |  Python  |
