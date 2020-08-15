@@ -1,5 +1,5 @@
 # My-LeetCode-Solutions
-A portfolio of my LeetCode Solutions. The notebooks will contain all iterations of my solutions. Intends to show my coding progress over time.
+A portfolio of my LeetCode Solutions. Will continually update as I solve problems.
 
 
 |        Problem Link to LeetCode           |  Difficulty   |  Language  |
