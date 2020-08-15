@@ -4,7 +4,7 @@ A portfolio of my LeetCode Solutions. Will continually update as I solve problem
 
 |        Problem Link to LeetCode           |  Difficulty   |  Language  |
 | ------------------------ | ------------- | ---------- |
-|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     <span style=“color:green;”> Easy</span>      |  Python  |
+|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |  Python  |
 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy |  Python  |
 |[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)           |  Easy   |  Python  |
 |[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)           |  Easy   |  Python  |
