@@ -59,3 +59,8 @@ A portfolio of my LeetCode Solutions. Will continually update as I solve problem
 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)           |  Easy   |  Python  |
 |[Permutations](https://leetcode.com/problems/permutations)           |  Medium   |  Python  |
+
+
+|        Problem Link to HackerRank           |  Difficulty   |  Solution Language  |
+| ------------------------ | ------------- | ---------- |
+| [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | Very Easy | Python |
