@@ -10,6 +10,7 @@ A portfolio of my LeetCode Solutions. Will continually update as I solve problem
 |[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)           |  Easy   |  Python  |
 |[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)           |  Easy   |  Python  |
 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)           |  Easy   |  Python  |
+|[Number of Steps to Reduce a Number to 0](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)           |  Easy   |  Python  |
 |[Shuffle String](https://leetcode.com/problems/shuffle-string)           |  Easy   |  Python  |
 |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)        |  Easy   |  Python|
 |[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)           |  Easy   |  Python  |
