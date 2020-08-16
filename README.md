@@ -53,6 +53,7 @@ A portfolio of my LeetCode Solutions. Will continually update as I solve problem
 |[Power of Three](https://leetcode.com/problems/power-of-three)           |  Easy   |  Python  |
 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)           |  Easy   |  Python  |
 |[Power of Four](https://leetcode.com/problems/power-of-four)           |  Easy   |  Python  |
+|[Implement strStr()](https://leetcode.com/problems/implement-strstr)           |  Easy   |  Python  |
 |[Sqrt(x) ](https://leetcode.com/problems/sqrtx)           |  Easy   |  Python  |
 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)           |  Easy   |  Python  |
 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
