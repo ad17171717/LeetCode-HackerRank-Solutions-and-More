@@ -35,6 +35,7 @@ A portfolio of my LeetCode Solutions. Will continually update as I solve problem
 |[Reverse String](https://leetcode.com/problems/reverse-string)           |  Easy   |  Python  |
 |[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)           |  Easy   |  Python  |
 |[Single Number](https://leetcode.com/problems/single-number)           |  Easy   |  Python  |
+|[Number Complement](https://leetcode.com/problems/number-complement)           |  Easy   |  Python  |
 |[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array)           |  Easy   |  Python  |
 |[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)           |  Easy   |  Python  |
 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)           |  Easy   |  Python  |
