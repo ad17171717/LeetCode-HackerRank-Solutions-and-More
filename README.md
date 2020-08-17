@@ -62,8 +62,8 @@ A portfolio of my LeetCode Solutions. Will continually update as I solve problem
 |[Permutations](https://leetcode.com/problems/permutations)           |  Medium   |  Python  |
 
 
-
-
 |        Problem Link to HackerRank           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
-| [Say "Hello, World!"](https://www.hackerrank.com/challenges/py-hello-world/problem) | Very Easy | [C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem), [Python](https://www.hackerrank.com/challenges/py-hello-world/problem) |
+| [Say "Hello, World!"](https://www.hackerrank.com/challenges/py-hello-world/problem) | Very Easy | C++, Python |
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | Very Easy | Python |
+
