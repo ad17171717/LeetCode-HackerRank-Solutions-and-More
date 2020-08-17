@@ -1,5 +1,5 @@
 # My-LeetCode-Solutions
-A portfolio of my LeetCode Solutions. Will continually update as I solve problems. You can find a link to my LeetCode profile [**here**](https://leetcode.com/ad17171717/).
+A portfolio of my LeetCode solutions as well as solutions from other sites. Will continually update as I solve problems. You can find a link to my LeetCode profile [**here**](https://leetcode.com/ad17171717/).
 
 
 |        Problem Link to LeetCode           |  Difficulty   |  Solution Language(s)  |
