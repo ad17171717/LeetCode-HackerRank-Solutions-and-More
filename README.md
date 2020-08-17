@@ -71,3 +71,4 @@ A portfolio of my LeetCode Solutions. Will continually update as I solve problem
 |        Problem Link to Project Euler           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 | [Sum square difference](https://projecteuler.net/problem=6) | Easy | Python |
+| [Multiples of 3 and 5](https://projecteuler.net/problem=1) | Easy | Python |
