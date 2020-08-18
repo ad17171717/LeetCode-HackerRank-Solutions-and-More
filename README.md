@@ -66,7 +66,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 | [Say "Hello, World!"](https://www.hackerrank.com/challenges/py-hello-world/problem) | Very Easy | C++, Python |
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | Very Easy | Python |
-| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Easy | Python |
+| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Very Easy | Python |
 
 
 |        Problem Link to Project Euler           |  Difficulty   |  Solution Language(s)  |
