@@ -72,3 +72,4 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 | [Sum square difference](https://projecteuler.net/problem=6) | Easy | Python |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | Easy | Python |
+| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Easy | Python |
