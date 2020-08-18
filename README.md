@@ -66,10 +66,10 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 | [Say "Hello, World!"](https://www.hackerrank.com/challenges/py-hello-world/problem) | Very Easy | C++, Python |
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | Very Easy | Python |
+| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Easy | Python |
 
 
 |        Problem Link to Project Euler           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 | [Sum square difference](https://projecteuler.net/problem=6) | Easy | Python |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | Easy | Python |
-| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Easy | Python |
