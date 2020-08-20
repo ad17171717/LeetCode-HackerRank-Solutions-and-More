@@ -74,3 +74,9 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 | [Sum square difference](https://projecteuler.net/problem=6) | Easy | Python |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | Easy | Python |
+
+|        Problem Link to Project Kaggle           |  Difficulty   |  Solution Language(s)  |
+| [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/leaderboard#score) | Easy | Python |
+
+
+
