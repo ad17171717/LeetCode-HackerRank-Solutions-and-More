@@ -14,6 +14,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Shuffle String](https://leetcode.com/problems/shuffle-string)           |  Easy   |  Python  |
 |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)        |  Easy   |  Python|
 |[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)           |  Easy   |  Python  |
+| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | Python |
 |[Create Target Array in the Given Order ](https://leetcode.com/problems/create-target-array-in-the-given-order)           |  Easy   |  Python  |
 |[Find Numbers with Even Number of Digits ](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)           |  Easy   |  Python  |
 |[To Lower Case ](https://leetcode.com/problems/to-lower-case)           |  Easy   |  Python  |
