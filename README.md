@@ -69,7 +69,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | Very Easy | Python |
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Very Easy | Python |
 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | Very Easy | Python |
-| Python: Division | Very Easy | Python |
+| [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | Very Easy | Python |
 
 
 |        Problem Link to Project Euler           |  Difficulty   |  Solution Language(s)  |
