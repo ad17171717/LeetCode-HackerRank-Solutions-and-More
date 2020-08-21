@@ -70,12 +70,14 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Very Easy | Python |
 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | Very Easy | Python |
 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | Very Easy | Python |
+| [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | Very Easy | Python |
 
 
 |        Problem Link to Project Euler           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 | [Sum square difference](https://projecteuler.net/problem=6) | Easy | Python |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | Easy | Python |
+
 
 |        Problem Link to Project Kaggle           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
