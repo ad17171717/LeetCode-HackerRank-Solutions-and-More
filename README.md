@@ -71,6 +71,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | Very Easy | Python |
 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | Very Easy | Python |
 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | Very Easy | Python |
+| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | Very Easy | Python |
 
 
 |        Problem Link to Project Euler           |  Difficulty   |  Solution Language(s)  |
