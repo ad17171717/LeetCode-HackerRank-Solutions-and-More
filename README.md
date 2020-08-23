@@ -17,6 +17,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | Python |
 |[Create Target Array in the Given Order ](https://leetcode.com/problems/create-target-array-in-the-given-order)           |  Easy   |  Python  |
 |[Find Numbers with Even Number of Digits ](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)           |  Easy   |  Python  |
+| [Convert Binary Number in a Linked List to Integer ](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | Easy | Python |
 |[To Lower Case ](https://leetcode.com/problems/to-lower-case)           |  Easy   |  Python  |
 |[Number of Students Doing Homework at a Given Time ](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)           |  Easy   |  Python  |
 |[Maximum Product of Two Elements in an Array ](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)           |  Easy   |  Python  |
