@@ -31,6 +31,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)           |  Easy   |  Python  |
 |[Array Partition I](https://leetcode.com/problems/array-partition-i)           |  Easy   |  Python  |
 |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)           |  Easy   |  Python  |
+| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Easy | Python |
 |[Height Checker](https://leetcode.com/problems/height-checker)           |  Easy   |  Python  |
 |[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) |  Easy   |  Python  |
 |[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)           |  Easy   |  Python  |
