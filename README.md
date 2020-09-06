@@ -84,6 +84,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |        Problem Link to Kaggle           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/leaderboard#score) | Easy | Python |
+| [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Easy | Python |
 
 
 
