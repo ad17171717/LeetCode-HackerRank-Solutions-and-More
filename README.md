@@ -78,14 +78,13 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 
 |        Problem Link to Project Euler           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
-| [Sum square difference](https://projecteuler.net/problem=6) | Easy | Python |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | Easy | Python |
+| [Largest palindrome product](https://projecteuler.net/problem=4) | Easy | Python |
+| [Sum square difference](https://projecteuler.net/problem=6) | Easy | Python |
+
 
 
 |        Problem Link to Kaggle           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/leaderboard#score) | Easy | Python |
 | [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Easy | Python |
-
-
-
