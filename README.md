@@ -88,3 +88,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/leaderboard#score) | Easy | Python |
 | [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Easy | Python |
+
+|        Paradoxes           |  Solution Language(s)  |
+| ------------------------ | ---------- |
+| [St. Petersburg Paradox](https://en.wikipedia.org/wiki/St._Petersburg_paradox) | Python |
