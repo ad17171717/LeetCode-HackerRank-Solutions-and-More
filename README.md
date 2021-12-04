@@ -4,6 +4,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 
 |        Problem Link to LeetCode           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
+|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)  |     Easy      |  Python  |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |  Python  |
 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy |  Python  |
 |[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy |  Python  |
