@@ -6,6 +6,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |  Python  |
 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy |  Python  |
+|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy |  Python  |
 |[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)           |  Easy   |  Python  |
 |[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)           |  Easy   |  Python  |
 |[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)           |  Easy   |  Python  |
