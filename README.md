@@ -6,6 +6,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 |[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)  |     Easy      |  Python  |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |  Python  |
+|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)  |     Easy      |  Python  |
 |[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)  |     Easy      |  Python  |
 |[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)  |     Easy      |  Python  |
 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy |  Python  |
