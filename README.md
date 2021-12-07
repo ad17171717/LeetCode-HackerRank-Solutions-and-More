@@ -5,6 +5,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |        Problem Link to LeetCode           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 |[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)  |     Easy      |  Python  |
+|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)  |     Easy      |  Python  |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |     Easy      |  Python  |
 |[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)  |     Easy      |  Python  |
 |[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)  |     Easy      |  Python  |
