@@ -5,6 +5,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |        Problem Link to LeetCode           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 |[Richest Customer Wealth](https://leetcode.com/problems/contains-duplicate/)  |     Easy      |  Python  |
+|[Add Binary](https://leetcode.com/problems/add-binary/)  |     Easy      |  Python  |
 |[Remove Element](https://leetcode.com/problems/remove-element/)  |     Easy      |  Python  |
 |[Contains Duplicate](https://leetcode.com/problems/richest-customer-wealth)  |     Easy      |  Python  |
 |[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)  |     Easy      |  Python  |
