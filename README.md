@@ -5,6 +5,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |        Problem Link to LeetCode           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 |[Richest Customer Wealth](https://leetcode.com/problems/contains-duplicate/)  |     Easy      |  Python  |
+|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)  |     Easy      |  Python  |
 |[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)  |     Easy      |  Python  |
 |[Add Binary](https://leetcode.com/problems/add-binary/)  |     Easy      |  Python  |
 |[Remove Element](https://leetcode.com/problems/remove-element/)  |     Easy      |  Python  |
