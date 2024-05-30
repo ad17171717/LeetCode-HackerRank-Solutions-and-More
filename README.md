@@ -5,7 +5,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |        Problem Link to LeetCode           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 |[Add Two Integers](https://leetcode.com/problems/add-two-integers/submissions/)  |     Easy      |  Python  |
-|[Display the First Three Rows]([https://leetcode.com/problems/add-two-integers/submissions/](https://leetcode.com/problems/display-the-first-three-rows/description/))  |     Easy      |  Python  |
+|[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)  |     Easy      |  Python  |
 |[Richest Customer Wealth](https://leetcode.com/problems/contains-duplicate/)  |     Easy      |  Python  |
 |[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)  |     Easy      |  Python  |
 |[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)  |     Easy      |  Python  |
