@@ -5,6 +5,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |        Problem Link to LeetCode           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 |[Add Two Integers](https://leetcode.com/problems/add-two-integers/submissions/)  |     Easy      |  Python  |
+|[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/)  |     Easy      |  Python  |
 |[Modify Columns](https://leetcode.com/problems/modify-columns/)  |     Easy      |  Python  |
 |[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)  |     Easy      |  Python  |
 |[Richest Customer Wealth](https://leetcode.com/problems/contains-duplicate/)  |     Easy      |  Python  |
