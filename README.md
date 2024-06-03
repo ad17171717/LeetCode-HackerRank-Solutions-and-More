@@ -5,6 +5,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |        Problem Link to LeetCode           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 |[Add Two Integers](https://leetcode.com/problems/add-two-integers/submissions/)  |     Easy      |  Python  |
+|[Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)  |     Easy      |  Python  |
 |[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)  |     Easy      |  Python  |
 |[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/)  |     Easy      |  Python  |
 |[Modify Columns](https://leetcode.com/problems/modify-columns/)  |     Easy      |  Python  |
