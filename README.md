@@ -8,6 +8,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)  |     Easy      |  Python  |
 |[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/)  |     Easy      |  Python  |
 |[Modify Columns](https://leetcode.com/problems/modify-columns/)  |     Easy      |  Python  |
+|[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)  |     Easy      |  Python  |
 |[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)  |     Easy      |  Python  |
 |[Richest Customer Wealth](https://leetcode.com/problems/contains-duplicate/)  |     Easy      |  Python  |
 |[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)  |     Easy      |  Python  |
