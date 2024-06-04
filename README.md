@@ -41,6 +41,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Number of Students Doing Homework at a Given Time ](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)           |  Easy   |  Python  |
 |[Maximum Product of Two Elements in an Array ](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)           |  Easy   |  Python  |
 |[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)           |  Easy   |  Python  |
+|[Change Data Type](https://leetcode.com/problems/change-data-type/description/)           |  Easy   |  Python  |
 |[Big Countries](https://leetcode.com/problems/big-countries)           |  Easy   |  SQL  |
 |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)           |  Easy   |  Python  |
 |[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)           |  Easy   |  Python  |
