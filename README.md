@@ -85,6 +85,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)           |  Easy   |  Python  |
 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)           |  Easy   |  Python  |
+|[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)  |     Easy      |  Python  |
 |[Permutations](https://leetcode.com/problems/permutations)           |  Medium   |  Python  |
 
 
