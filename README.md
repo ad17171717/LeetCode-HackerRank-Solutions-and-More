@@ -12,6 +12,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)   |     Easy      |  Python  |
 |[Modify Columns](https://leetcode.com/problems/modify-columns/)  |     Easy      |  Python  |
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  |     Easy      |  Python  |
+|[Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)  |     Easy      |  pandas  |
 |[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)  |     Easy      |  Python  |
 |[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)  |     Easy      |  Python  |
 |[Richest Customer Wealth](https://leetcode.com/problems/contains-duplicate/)  |     Easy      |  Python  |
