@@ -5,6 +5,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |        Problem Link to LeetCode           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 |[Add Two Integers](https://leetcode.com/problems/add-two-integers/submissions/)  |     Easy      |  Python  |
+|[Rotate String](https://leetcode.com/problems/rotate-string/description/)  |     Easy      |  Python  |
 |[Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)  |     Easy      |  Python  |
 |[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)  |     Easy      |  Python  |
 |[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)  |     Easy      |  Python  |
