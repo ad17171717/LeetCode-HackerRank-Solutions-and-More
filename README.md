@@ -63,6 +63,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)           |  Easy   |  Python  |
 |[Reverse String](https://leetcode.com/problems/reverse-string)           |  Easy   |  Python  |
 |[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)           |  Easy   |  Python  |
+|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)           |  Easy   |  Python  |
 |[Single Number](https://leetcode.com/problems/single-number)           |  Easy   |  Python  |
 |[Number Complement](https://leetcode.com/problems/number-complement)           |  Easy   |  Python  |
 |[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array)           |  Easy   |  Python  |
