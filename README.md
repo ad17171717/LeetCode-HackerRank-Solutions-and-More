@@ -15,6 +15,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  |     Easy      |  Python  |
 |[Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)  |     Easy      |  pandas  |
 |[Rename Columns](https://leetcode.com/problems/rename-columns/description/)  |     Easy      |  pandas  |
+|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)  |     Easy      |  pandas  |
 |[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)  |     Easy      |  Python  |
 |[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)  |     Easy      |  Python  |
