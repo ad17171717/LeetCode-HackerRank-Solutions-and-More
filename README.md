@@ -93,6 +93,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)           |  Easy   |  Python  |
 |[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)  |     Easy      |  Python  |
 |[Permutations](https://leetcode.com/problems/permutations)           |  Medium   |  Python  |
+|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)           |  Medium   |  Python  |
 
 
 |        Problem Link to HackerRank           |  Difficulty   |  Solution Language(s)  |
