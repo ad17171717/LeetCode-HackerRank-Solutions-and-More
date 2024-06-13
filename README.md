@@ -10,6 +10,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)  |     Easy      |  Python  |
 |[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)  |     Easy      |  Python  |
 |[Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)  |     Easy      |  Python  |
+|[Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/)  |     Easy      |  Python  |
 |[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)  |     Easy      |  Python  |
 |[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/)  |     Easy      |  Python  |
 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)   |     Easy      |  Python  |
