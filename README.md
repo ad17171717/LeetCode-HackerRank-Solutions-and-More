@@ -26,6 +26,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)  |     Easy      |  pandas  |
 |[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)  |     Easy      |  pandas  |
+|[Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)  |     Easy      |  Python  |
 |[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)  |     Easy      |  Python  |
 |[Richest Customer Wealth](https://leetcode.com/problems/contains-duplicate/)  |     Easy      |  Python  |
