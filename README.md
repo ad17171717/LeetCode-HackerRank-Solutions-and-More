@@ -19,7 +19,9 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)  |     Easy      |  Python  |
 |[Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements/description/)  |     Easy      |  Python  |
 |[Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)  |     Easy      |  pandas  |
+|[Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Rename Columns](https://leetcode.com/problems/rename-columns/description/)  |     Easy      |  pandas  |
+|[Method Chaining](https://leetcode.com/problems/method-chaining/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Select Data](https://leetcode.com/problems/select-data/description/)  |     Easy      |  pandas  |
 |[Class Performance](https://leetcode.com/problems/class-performance/description/)  |     Easy      |  pandas  |
 |[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)  |     Easy      |  pandas  |
@@ -27,6 +29,8 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)  |     Easy      |  pandas  |
 |[Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
+|[Drop Missing Data](https://leetcode.com/problems/drop-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
+|[Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)  |     Easy      |  Python  |
 |[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)  |     Easy      |  Python  |
 |[Richest Customer Wealth](https://leetcode.com/problems/contains-duplicate/)  |     Easy      |  Python  |
