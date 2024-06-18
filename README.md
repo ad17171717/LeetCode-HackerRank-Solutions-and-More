@@ -16,9 +16,13 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)   |     Easy      |  Python  |
 |[Modify Columns](https://leetcode.com/problems/modify-columns/)  |     Easy      |  Python  |
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  |     Easy      |  Python  |
+|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)  |     Easy      |  Python  |
+|[Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements/description/)  |     Easy      |  Python  |
 |[Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)  |     Easy      |  pandas  |
 |[Rename Columns](https://leetcode.com/problems/rename-columns/description/)  |     Easy      |  pandas  |
 |[Select Data](https://leetcode.com/problems/select-data/description/)  |     Easy      |  pandas  |
+|[Class Performance](https://leetcode.com/problems/class-performance/description/)  |     Easy      |  pandas  |
+|[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)  |     Easy      |  pandas  |
 |[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)  |     Easy      |  pandas  |
 |[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)  |     Easy      |  Python  |
