@@ -19,6 +19,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)  |     Easy      |  pandas  |
 |[Rename Columns](https://leetcode.com/problems/rename-columns/description/)  |     Easy      |  pandas  |
 |[Select Data](https://leetcode.com/problems/select-data/description/)  |     Easy      |  pandas  |
+|[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)  |     Easy      |  pandas  |
 |[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)  |     Easy      |  pandas  |
 |[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)  |     Easy      |  Python  |
