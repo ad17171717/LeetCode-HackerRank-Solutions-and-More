@@ -109,6 +109,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)  |     Easy      |  Python  |
 |[Permutations](https://leetcode.com/problems/permutations)           |  Medium   |  Python  |
 |[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)           |  Medium   |  Python  |
+|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)           |  Medium   |  Python  |
 
 
 |        Problem Link to HackerRank           |  Difficulty   |  Solution Language(s)  |
