@@ -6,6 +6,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 |[Add Two Integers](https://leetcode.com/problems/add-two-integers/submissions/)  |     Easy      |  Python  |
 |[Rotate String](https://leetcode.com/problems/rotate-string/description/)  |     Easy      |  Python  |
+|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)  |     Easy      |  Python  |
 |[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)  |     Easy      |  Python  |
 |[Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)  |     Easy      |  Python  |
 |[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)  |     Easy      |  Python  |
