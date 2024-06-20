@@ -12,6 +12,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)  |     Easy      |  Python  |
 |[Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/)  |     Easy      |  Python  |
 |[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)  |     Easy      |  Python  |
+|[Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/)  |     Easy      |  Python  |
 |[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/)  |     Easy      |  Python  |
 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)   |     Easy      |  Python  |
 |[Modify Columns](https://leetcode.com/problems/modify-columns/)  |     Easy      |  Python  |
