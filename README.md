@@ -91,6 +91,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Power of Four](https://leetcode.com/problems/power-of-four)           |  Easy   |  Python  |
 |[Implement strStr()](https://leetcode.com/problems/implement-strstr)           |  Easy   |  Python  |
 |[Sqrt(x) ](https://leetcode.com/problems/sqrtx)           |  Easy   |  Python  |
+|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/)           |  Easy   |  Python  |
 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)           |  Easy   |  Python  |
 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)           |  Easy   |  Python  |
