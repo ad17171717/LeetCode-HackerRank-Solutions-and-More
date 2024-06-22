@@ -114,6 +114,9 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)           |  Medium   |  Python  |
 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)           |  Medium   |  Python  |
 |[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)           |  Medium   |  Python  |
+|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)           |  Medium   |  Python  |
+
+
 |        Problem Link to HackerRank           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 | [Say "Hello, World!"](https://www.hackerrank.com/challenges/py-hello-world/problem) | Very Easy | C++, Python |
