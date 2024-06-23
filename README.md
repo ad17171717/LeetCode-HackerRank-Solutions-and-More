@@ -118,6 +118,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/)  |     Easy      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  |     Easy      |  pandas  |
+|[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  |     Easy      |  pandas  |
 
 
 
