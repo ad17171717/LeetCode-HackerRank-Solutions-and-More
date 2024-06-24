@@ -116,8 +116,10 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Drop Missing Data](https://leetcode.com/problems/drop-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/)  |     Easy      |  pandas  |
+|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  |     Easy      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  |     Easy      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  |     Easy      |  pandas  |
+|[Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Class Performance](https://leetcode.com/problems/class-performance/description/)  |     Medium      |  pandas  |
 
