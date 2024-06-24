@@ -119,7 +119,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/)  |     Easy      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  |     Easy      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  |     Easy      |  pandas  |
-
+|[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/?lang=pythondata)  |     Easy      |  pandas  |
 
 
 |        Problem Link to HackerRank           |  Difficulty   |  Solution Language(s)  |
