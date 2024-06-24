@@ -107,7 +107,6 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Rename Columns](https://leetcode.com/problems/rename-columns/description/)  |     Easy      |  pandas  |
 |[Method Chaining](https://leetcode.com/problems/method-chaining/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Select Data](https://leetcode.com/problems/select-data/description/)  |     Easy      |  pandas  |
-|[Class Performance](https://leetcode.com/problems/class-performance/description/)  |     Easy      |  pandas  |
 |[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)  |     Easy      |  pandas  |
 |[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)  |     Easy      |  pandas  |
 |[Find the Team Size](https://leetcode.com/problems/find-the-team-size/description/)  |     Easy      |  pandas  |
@@ -120,6 +119,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  |     Easy      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  |     Easy      |  pandas  |
 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/?lang=pythondata)  |     Easy      |  pandas  |
+|[Class Performance](https://leetcode.com/problems/class-performance/description/)  |     Medium      |  pandas  |
 
 
 |        Problem Link to HackerRank           |  Difficulty   |  Solution Language(s)  |
