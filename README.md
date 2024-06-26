@@ -81,6 +81,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Majority Element](https://leetcode.com/problems/majority-element)           |  Easy   |  Python  |
 |[Monotonic Array](https://leetcode.com/problems/monotonic-array)           |  Easy   |  Python  |
 |[Move Zeroes ](https://leetcode.com/problems/move-zeroes)           |  Easy   |  Python  |
+|[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/)           |  Easy   |  Python  |
 |[Add Digits](https://leetcode.com/problems/add-digits)           |  Easy   |  Python  |
 |[Detect Capital](https://leetcode.com/problems/detect-capital)           |  Easy   |  Python  |
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number)           |  Easy   |  Python  |
@@ -115,6 +116,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Drop Missing Data](https://leetcode.com/problems/drop-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
+|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?lang=pythondata)  |     Easy      |  pandas  |
 |[Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/)  |     Easy      |  pandas  |
 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  |     Easy      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  |     Easy      |  pandas  |
