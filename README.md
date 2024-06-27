@@ -111,6 +111,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Method Chaining](https://leetcode.com/problems/method-chaining/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Select Data](https://leetcode.com/problems/select-data/description/)  |     Easy      |  pandas  |
 |[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)  |     Easy      |  pandas  |
+|[Find Cities in Each State](https://leetcode.com/problems/find-cities-in-each-state/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)  |     Easy      |  pandas  |
 |[Find the Team Size](https://leetcode.com/problems/find-the-team-size/description/)  |     Easy      |  pandas  |
 |[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/?lang=pythondata)  |     Easy      |  pandas  |
