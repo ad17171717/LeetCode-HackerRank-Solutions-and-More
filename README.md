@@ -87,6 +87,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number)           |  Easy   |  Python  |
 |[Power of Two](https://leetcode.com/problems/power-of-two)           |  Easy   |  Python  |
 |[Plus One](https://leetcode.com/problems/plus-one)           |  Easy   |  Python  |
+|[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)           |  Easy   |  Python  |
 |[Power of Three](https://leetcode.com/problems/power-of-three)           |  Easy   |  Python  |
 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)           |  Easy   |  Python  |
 |[Power of Four](https://leetcode.com/problems/power-of-four)           |  Easy   |  Python  |
