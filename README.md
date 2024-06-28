@@ -130,6 +130,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Class Performance](https://leetcode.com/problems/class-performance/description/)  |     Medium      |  pandas  |
+|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/description/)  |     Medium      |  pandas  |
 |[Big Countries](https://leetcode.com/problems/big-countries)           |  Easy   |  SQL  |
 
 
