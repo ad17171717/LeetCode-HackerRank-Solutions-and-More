@@ -121,7 +121,8 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?lang=pythondata)  |     Easy      |  pandas  |
 |[Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/)  |     Easy      |  pandas  |
-|[Find Expensive Cities](https://leetcode.com/problems/find-expensive-cities/description/?lang=pythondata)  |     Easy      |  pandas  |
+|[NPV Queries](https://leetcode.com/problems/npv-queries/description/?lang=pythondata)  |     Easy      |  pandas  |
+|[Find Expensive Cities](https://leetcode.com/problems/find-expensive-cities/description/?lang=pythondataf)  |     Easy      |  pandas  |
 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  |     Easy      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  |     Easy      |  pandas  |
