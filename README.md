@@ -81,6 +81,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Majority Element](https://leetcode.com/problems/majority-element)           |  Easy   |  Python  |
 |[Monotonic Array](https://leetcode.com/problems/monotonic-array)           |  Easy   |  Python  |
 |[Move Zeroes ](https://leetcode.com/problems/move-zeroes)           |  Easy   |  Python  |
+|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)           |  Easy   |  Python  |
 |[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/)           |  Easy   |  Python  |
 |[Add Digits](https://leetcode.com/problems/add-digits)           |  Easy   |  Python  |
 |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)           |  Easy   |  Python  |
