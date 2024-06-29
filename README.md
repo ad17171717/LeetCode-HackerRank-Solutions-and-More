@@ -94,6 +94,8 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Power of Three](https://leetcode.com/problems/power-of-three)           |  Easy   |  Python  |
 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)           |  Easy   |  Python  |
 |[Power of Four](https://leetcode.com/problems/power-of-four)           |  Easy   |  Python  |
+|[High Five](https://leetcode.com/problems/high-five/description/)           |  Easy   |  Python  |
+|[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)           |  Easy   |  Python  |
 |[Implement strStr()](https://leetcode.com/problems/implement-strstr)           |  Easy   |  Python  |
 |[Sqrt(x) ](https://leetcode.com/problems/sqrtx)           |  Easy   |  Python  |
 |[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/)           |  Easy   |  Python  |
@@ -128,16 +130,17 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Expensive Cities](https://leetcode.com/problems/find-expensive-cities/description/?lang=pythondataf)  |     Easy      |  pandas  |
 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  |     Easy      |  pandas  |
 |[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)  |     Easy      |  pandas  |
+|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)  |     Easy      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  |     Easy      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  |     Easy      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  |     Easy      |  pandas  |
+|[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/)  |     Easy      |  pandas  |
 |[Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Class Performance](https://leetcode.com/problems/class-performance/description/)  |     Medium      |  pandas  |
 |[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/description/)  |     Medium      |  pandas  |
 |[Big Countries](https://leetcode.com/problems/big-countries)           |  Easy   |  SQL  |
-
 
 
 |        Problem Link to HackerRank           |  Difficulty   |  Solution Language(s)  |
