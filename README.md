@@ -122,11 +122,12 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Drop Missing Data](https://leetcode.com/problems/drop-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?lang=pythondata)  |     Easy      |  pandas  |
-|[Bikes Last Time Used](https://leetcode.com/problems/bikes-last-time-used/description/)  |     Easy      |  pandas  |
 |[Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/)  |     Easy      |  pandas  |
+|[Bikes Last Time Used](https://leetcode.com/problems/bikes-last-time-used/description/)  |     Easy      |  pandas  |
 |[NPV Queries](https://leetcode.com/problems/npv-queries/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Find Expensive Cities](https://leetcode.com/problems/find-expensive-cities/description/?lang=pythondataf)  |     Easy      |  pandas  |
 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  |     Easy      |  pandas  |
+|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)  |     Easy      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  |     Easy      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  |     Easy      |  pandas  |
