@@ -18,6 +18,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)   |     Easy      |  Python  |
 |[Modify Columns](https://leetcode.com/problems/modify-columns/)  |     Easy      |  Python  |
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  |     Easy      |  Python  |
+|[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)  |     Easy      |  Python  |
 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)  |     Easy      |  Python  |
 |[Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements/description/)  |     Easy      |  Python  |
 |[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)  |     Easy      |  Python  |
@@ -129,6 +130,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[NPV Queries](https://leetcode.com/problems/npv-queries/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Find Expensive Cities](https://leetcode.com/problems/find-expensive-cities/description/?lang=pythondataf)  |     Easy      |  pandas  |
 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  |     Easy      |  pandas  |
+|[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/)  |     Easy      |  pandas  |
 |[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)  |     Easy      |  pandas  |
 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)  |     Easy      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  |     Easy      |  pandas  |

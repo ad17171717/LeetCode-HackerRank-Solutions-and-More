@@ -128,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#do not ignore specific file
+!The_Latest_Login_in_2020.ipynb
