@@ -102,6 +102,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/)           |  Easy   |  Python  |
 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)           |  Easy   |  Python  |
 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
+|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)           |  Easy   |  Python  |
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)           |  Easy   |  Python  |
 |[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)  |     Easy      |  Python  |
 |[Permutations](https://leetcode.com/problems/permutations)           |  Medium   |  Python  |
