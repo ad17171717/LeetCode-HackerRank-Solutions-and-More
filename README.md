@@ -17,6 +17,9 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/)  |     Easy      |  Python  |
 |[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)   |     Easy      |  Python  |
 |[Modify Columns](https://leetcode.com/problems/modify-columns/)  |     Easy      |  Python  |
+|[Sort the People](https://leetcode.com/problems/sort-the-people/description/)  |     Easy      |  Python  |
+|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)  |     Easy      |  Python  |
+|[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)  |     Easy      |  Python  |
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  |     Easy      |  Python  |
 |[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)  |     Easy      |  Python  |
 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)  |     Easy      |  Python  |
@@ -45,10 +48,10 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Shuffle String](https://leetcode.com/problems/shuffle-string)           |  Easy   |  Python  |
 |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)        |  Easy   |  Python|
 |[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)           |  Easy   |  Python  |
-| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | Python |
+|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | Python |
 |[Create Target Array in the Given Order ](https://leetcode.com/problems/create-target-array-in-the-given-order)           |  Easy   |  Python  |
 |[Find Numbers with Even Number of Digits ](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)           |  Easy   |  Python  |
-| [Convert Binary Number in a Linked List to Integer ](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | Easy | Python |
+|[Convert Binary Number in a Linked List to Integer ](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | Easy | Python |
 |[To Lower Case ](https://leetcode.com/problems/to-lower-case)           |  Easy   |  Python  |
 |[Number of Students Doing Homework at a Given Time ](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)           |  Easy   |  Python  |
 |[Maximum Product of Two Elements in an Array ](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)           |  Easy   |  Python  |
@@ -62,7 +65,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)           |  Easy   |  Python  |
 |[Array Partition I](https://leetcode.com/problems/array-partition-i)           |  Easy   |  Python  |
 |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)           |  Easy   |  Python  |
-| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Easy | Python |
+|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Easy | Python |
 |[Height Checker](https://leetcode.com/problems/height-checker)           |  Easy   |  Python  |
 |[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) |  Easy   |  Python  |
 |[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)           |  Easy   |  Python  |
