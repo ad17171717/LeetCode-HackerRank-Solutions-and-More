@@ -138,6 +138,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  |     Easy      |  pandas  |
 |[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/)  |     Easy      |  pandas  |
 |[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)  |     Easy      |  pandas  |
+|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)  |     Easy      |  pandas  |
 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)  |     Easy      |  pandas  |
 |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)  |     Easy      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  |     Easy      |  pandas  |
