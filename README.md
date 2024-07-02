@@ -77,6 +77,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array)           |  Easy   |  Python  |
 |[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)           |  Easy   |  Python  |
 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)           |  Easy   |  Python  |
+|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)           |  Easy   |  Python  |
 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)           |  Easy   |  Python  |
 |[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)           |  Easy   |  Python  |
 |[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)     |  Easy   |  Python  |
@@ -101,7 +102,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[High Five](https://leetcode.com/problems/high-five/description/)           |  Easy   |  Python  |
 |[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)           |  Easy   |  Python  |
 |[Implement strStr()](https://leetcode.com/problems/implement-strstr)           |  Easy   |  Python  |
-|[Sqrt(x) ](https://leetcode.com/problems/sqrtx)           |  Easy   |  Python  |
+|[Sqrt(x)](https://leetcode.com/problems/sqrtx)           |  Easy   |  Python  |
 |[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/)           |  Easy   |  Python  |
 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)           |  Easy   |  Python  |
 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
