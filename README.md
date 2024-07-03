@@ -151,6 +151,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Class Performance](https://leetcode.com/problems/class-performance/description/)  |     Medium      |  pandas  |
 |[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/description/)  |     Medium      |  pandas  |
+|[Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/description/)  |     Medium      |  pandas  |
 |[Big Countries](https://leetcode.com/problems/big-countries)           |  Easy   |  SQL  |
 
 
