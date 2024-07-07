@@ -97,6 +97,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Plus One](https://leetcode.com/problems/plus-one)           |  Easy   |  Python  |
 |[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)           |  Easy   |  Python  |
 |[Power of Three](https://leetcode.com/problems/power-of-three)           |  Easy   |  Python  |
+|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/)           |  Easy   |  Python  |
 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)           |  Easy   |  Python  |
 |[Power of Four](https://leetcode.com/problems/power-of-four)           |  Easy   |  Python  |
 |[High Five](https://leetcode.com/problems/high-five/description/)           |  Easy   |  Python  |
