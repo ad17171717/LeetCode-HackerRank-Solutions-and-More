@@ -136,6 +136,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[NPV Queries](https://leetcode.com/problems/npv-queries/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Find Expensive Cities](https://leetcode.com/problems/find-expensive-cities/description/?lang=pythondataf)  |     Easy      |  pandas  |
 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  |     Easy      |  pandas  |
+|[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/description/)  |     Easy      |  pandas  |
 |[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/)  |     Easy      |  pandas  |
 |[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)  |     Easy      |  pandas  |
 |[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)  |     Easy      |  pandas  |
