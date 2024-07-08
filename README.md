@@ -104,6 +104,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)           |  Easy   |  Python  |
 |[Implement strStr()](https://leetcode.com/problems/implement-strstr)           |  Easy   |  Python  |
 |[Sqrt(x)](https://leetcode.com/problems/sqrtx)           |  Easy   |  Python  |
+|[Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/)           |  Easy   |  Python  |
 |[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/)           |  Easy   |  Python  |
 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)           |  Easy   |  Python  |
 |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)           |  Easy   |  Python  |
