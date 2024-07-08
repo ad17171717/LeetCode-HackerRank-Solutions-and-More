@@ -146,6 +146,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)  |     Easy      |  pandas  |
 |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)  |     Easy      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  |     Easy      |  pandas  |
+|[Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/description/)  |     Easy      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  |     Easy      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  |     Easy      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  |     Easy      |  pandas  |
