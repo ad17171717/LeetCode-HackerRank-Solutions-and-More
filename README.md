@@ -96,6 +96,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/)           |  Easy   |  Python  |
 |[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/)           |  Easy   |  Python  |
 |[Plus One](https://leetcode.com/problems/plus-one)           |  Easy   |  Python  |
+|[Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/description/)           |  Easy   |  Python  |
 |[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)           |  Easy   |  Python  |
 |[Power of Three](https://leetcode.com/problems/power-of-three)           |  Easy   |  Python  |
 |[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/)           |  Easy   |  Python  |
