@@ -19,6 +19,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Modify Columns](https://leetcode.com/problems/modify-columns/)  |     Easy      |  Python  |
 |[Sort the People](https://leetcode.com/problems/sort-the-people/description/)  |     Easy      |  Python  |
 |[Counting Bits](https://leetcode.com/problems/counting-bits/description/)  |     Easy      |  Python  |
+|[Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/description/)  |     Easy      |  Python  |
 |[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)  |     Easy      |  Python  |
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  |     Easy      |  Python  |
 |[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)  |     Easy      |  Python  |
@@ -127,6 +128,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Method Chaining](https://leetcode.com/problems/method-chaining/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  |     Easy      |  pandas  |
 |[Select Data](https://leetcode.com/problems/select-data/description/)  |     Easy      |  pandas  |
 |[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)  |     Easy      |  pandas  |
+|[Reported Posts](https://leetcode.com/problems/reported-posts/description/)  |     Easy      |  pandas  |
 |[Find Cities in Each State](https://leetcode.com/problems/find-cities-in-each-state/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)  |     Easy      |  pandas  |
 |[Find the Team Size](https://leetcode.com/problems/find-the-team-size/description/)  |     Easy      |  pandas  |
@@ -139,6 +141,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/)  |     Easy      |  pandas  |
 |[Bikes Last Time Used](https://leetcode.com/problems/bikes-last-time-used/description/)  |     Easy      |  pandas  |
 |[NPV Queries](https://leetcode.com/problems/npv-queries/description/?lang=pythondata)  |     Easy      |  pandas  |
+|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?lang=pythondata)  |     Easy      |  pandas  |
 |[Find Expensive Cities](https://leetcode.com/problems/find-expensive-cities/description/?lang=pythondataf)  |     Easy      |  pandas  |
 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  |     Easy      |  pandas  |
 |[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/description/)  |     Easy      |  pandas  |
