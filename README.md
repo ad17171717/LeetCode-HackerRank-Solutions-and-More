@@ -23,6 +23,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)  | <span style="color:green">Easy</span>      |  Python  |
