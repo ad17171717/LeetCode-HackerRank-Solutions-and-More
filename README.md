@@ -151,6 +151,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Low-Quality Problems](https://leetcode.com/problems/low-quality-problems/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Article Views I](https://leetcode.com/problems/article-views-i/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
