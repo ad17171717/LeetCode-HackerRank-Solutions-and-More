@@ -65,6 +65,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)           | <span style="color:green">Easy</span>   |  Python  |
 |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)           | <span style="color:green">Easy</span>   |  Python  |
 |[Array Partition I](https://leetcode.com/problems/array-partition-i)           | <span style="color:green">Easy</span>   |  Python  |
+|[Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)           | <span style="color:green">Easy</span>   |  Python  |
 |[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | <span style="color:green">Easy</span> | Python |
 |[Height Checker](https://leetcode.com/problems/height-checker)           | <span style="color:green">Easy</span>   |  Python  |
