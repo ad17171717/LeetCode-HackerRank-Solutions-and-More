@@ -89,6 +89,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Majority Element](https://leetcode.com/problems/majority-element)           | <span style="color:green">Easy</span>   |  Python  |
 |[Monotonic Array](https://leetcode.com/problems/monotonic-array)           | <span style="color:green">Easy</span>   |  Python  |
 |[Move Zeroes ](https://leetcode.com/problems/move-zeroes)           | <span style="color:green">Easy</span>   |  Python  |
+|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Add Digits](https://leetcode.com/problems/add-digits)           | <span style="color:green">Easy</span>   |  Python  |
@@ -166,6 +167,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Class Performance](https://leetcode.com/problems/class-performance/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
+|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
