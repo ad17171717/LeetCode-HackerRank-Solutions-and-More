@@ -120,6 +120,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)           | <span style="color:green">Easy</span>   |  Python  |
 |[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/)           | <span style="color:yellow">Medium</span>   |  Python  |
 |[Permutations](https://leetcode.com/problems/permutations)           | <span style="color:yellow">Medium</span>   |  Python  |
 |[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)           | <span style="color:yellow">Medium</span>   |  Python  |
 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)           | <span style="color:yellow">Medium</span>   |  Python  |
