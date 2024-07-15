@@ -143,6 +143,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Bikes Last Time Used](https://leetcode.com/problems/bikes-last-time-used/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[NPV Queries](https://leetcode.com/problems/npv-queries/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
