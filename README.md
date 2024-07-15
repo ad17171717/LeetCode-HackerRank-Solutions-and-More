@@ -94,6 +94,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Add Digits](https://leetcode.com/problems/add-digits)           | <span style="color:green">Easy</span>   |  Python  |
 |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)           | <span style="color:green">Easy</span>   |  Python  |
+|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Detect Capital](https://leetcode.com/problems/detect-capital)           | <span style="color:green">Easy</span>   |  Python  |
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number)           | <span style="color:green">Easy</span>   |  Python  |
 |[Power of Two](https://leetcode.com/problems/power-of-two)           | <span style="color:green">Easy</span>   |  Python  |
@@ -156,6 +157,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Article Views I](https://leetcode.com/problems/article-views-i/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
