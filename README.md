@@ -152,6 +152,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[NPV Queries](https://leetcode.com/problems/npv-queries/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Expensive Cities](https://leetcode.com/problems/find-expensive-cities/description/?lang=pythondataf)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/)  | <span style="color:green">Easy</span>      |  pandas  |
