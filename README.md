@@ -113,6 +113,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Implement strStr()](https://leetcode.com/problems/implement-strstr)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sqrt(x)](https://leetcode.com/problems/sqrtx)           | <span style="color:green">Easy</span>   |  Python  |
+|[Count Numbers With Unique Digits II](https://leetcode.com/problems/count-numbers-with-unique-digits-ii/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Length of Last Word](https://leetcode.com/problems/length-of-last-word)           | <span style="color:green">Easy</span>   |  Python  |
@@ -161,6 +162,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Low-Quality Problems](https://leetcode.com/problems/low-quality-problems/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Article Views I](https://leetcode.com/problems/article-views-i/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Find Candidates for Data Scientist Position](https://leetcode.com/problems/find-candidates-for-data-scientist-position/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
