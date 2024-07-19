@@ -166,7 +166,8 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
-|[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  | <span style="color:green">Easy</span>      |  pandas  |
