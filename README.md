@@ -176,6 +176,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Second Day Verification](https://leetcode.com/problems/second-day-verification/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Class Performance](https://leetcode.com/problems/class-performance/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
