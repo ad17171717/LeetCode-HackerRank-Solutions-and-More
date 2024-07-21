@@ -98,6 +98,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Detect Capital](https://leetcode.com/problems/detect-capital)           | <span style="color:green">Easy</span>   |  Python  |
+|[Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number)           | <span style="color:green">Easy</span>   |  Python  |
 |[Power of Two](https://leetcode.com/problems/power-of-two)           | <span style="color:green">Easy</span>   |  Python  |
 |[Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/)           | <span style="color:green">Easy</span>   |  Python  |
