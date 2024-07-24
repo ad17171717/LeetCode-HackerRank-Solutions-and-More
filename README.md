@@ -180,6 +180,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
