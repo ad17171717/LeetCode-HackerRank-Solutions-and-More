@@ -98,6 +98,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)           | <span style="color:green">Easy</span>   |  Python  |
+|[Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Detect Capital](https://leetcode.com/problems/detect-capital)           | <span style="color:green">Easy</span>   |  Python  |
 |[Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number)           | <span style="color:green">Easy</span>   |  Python  |
@@ -165,6 +166,8 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Low-Quality Problems](https://leetcode.com/problems/low-quality-problems/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Article Views I](https://leetcode.com/problems/article-views-i/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Candidates for Data Scientist Position](https://leetcode.com/problems/find-candidates-for-data-scientist-position/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)  | <span style="color:green">Easy</span>      |  pandas  |
