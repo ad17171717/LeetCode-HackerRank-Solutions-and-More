@@ -32,6 +32,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Add Binary](https://leetcode.com/problems/add-binary/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Remove Element](https://leetcode.com/problems/remove-element/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Contains Duplicate](https://leetcode.com/problems/richest-customer-wealth)  | <span style="color:green">Easy</span>      |  Python  |
 |[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  | <span style="color:green">Easy</span>      |  Python  |
@@ -152,6 +153,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Bikes Last Time Used](https://leetcode.com/problems/bikes-last-time-used/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[NPV Queries](https://leetcode.com/problems/npv-queries/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Expensive Cities](https://leetcode.com/problems/find-expensive-cities/description/?lang=pythondataf)  | <span style="color:green">Easy</span>      |  pandas  |
@@ -172,6 +174,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  | <span style="color:green">Easy</span>      |  pandas  |

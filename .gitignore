@@ -131,3 +131,5 @@ dmypy.json
 
 #do not ignore specific file
 !The_Latest_Login_in_2020.ipynb
+!Find Latest Salaries.ipynb
+!Greatest English Letter in Upper and Lower Case.ipynb
