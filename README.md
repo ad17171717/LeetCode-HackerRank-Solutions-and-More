@@ -192,6 +192,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
+|[Apples & Oranges](https://leetcode.com/problems/apples-oranges/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/?lang=pythondata)  | <span style="color:red">Hard</span>      |  pandas  |
 |[Big Countries](https://leetcode.com/problems/big-countries)           | <span style="color:green">Easy</span>   |  SQL  |
