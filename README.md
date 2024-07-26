@@ -206,7 +206,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |        Problem Link to HackerRank           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
 | [Say "Hello, World!"](https://www.hackerrank.com/challenges/py-hello-world/problem) | <span style="color:green">Very Easy</span> | C++, Python |
-| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | <span style="color:green">Very Easy</span> | Python |
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | <span style="color:green">Very Easy</span> | Golang, Python |
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | <span style="color:green">Very Easy</span> | Python |
 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | <span style="color:green">Very Easy</span> | Python |
 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | <span style="color:green">Very Easy</span> | Python |
