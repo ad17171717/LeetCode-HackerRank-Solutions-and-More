@@ -31,6 +31,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Add Binary](https://leetcode.com/problems/add-binary/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Remove Element](https://leetcode.com/problems/remove-element/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Contains Duplicate](https://leetcode.com/problems/richest-customer-wealth)  | <span style="color:green">Easy</span>      |  Python  |
@@ -63,6 +64,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)           | <span style="color:green">Easy</span>   |  Python  |
 |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)           | <span style="color:green">Easy</span>   |  Python  |
+|[Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)           | <span style="color:green">Easy</span>   |  Python  |
 |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)           | <span style="color:green">Easy</span>   |  Python  |
 |[Array Partition I](https://leetcode.com/problems/array-partition-i)           | <span style="color:green">Easy</span>   |  Python  |
@@ -139,6 +141,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Rename Columns](https://leetcode.com/problems/rename-columns/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Method Chaining](https://leetcode.com/problems/method-chaining/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Select Data](https://leetcode.com/problems/select-data/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Reported Posts](https://leetcode.com/problems/reported-posts/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Cities in Each State](https://leetcode.com/problems/find-cities-in-each-state/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
@@ -181,6 +184,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Concatenate the Name and the Profession](https://leetcode.com/problems/concatenate-the-name-and-the-profession/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
@@ -193,6 +197,8 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Apples & Oranges](https://leetcode.com/problems/apples-oranges/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
+|[Tasks Count in the Weekend](https://leetcode.com/problems/tasks-count-in-the-weekend/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
+|[Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/?lang=pythondata)  | <span style="color:red">Hard</span>      |  pandas  |
 |[Big Countries](https://leetcode.com/problems/big-countries)           | <span style="color:green">Easy</span>   |  SQL  |
