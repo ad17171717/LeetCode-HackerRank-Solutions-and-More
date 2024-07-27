@@ -180,6 +180,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Convert Date Format](https://leetcode.com/problems/convert-date-format/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  | <span style="color:green">Easy</span>      |  pandas  |
