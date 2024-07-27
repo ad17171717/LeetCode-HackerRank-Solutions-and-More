@@ -184,6 +184,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Concatenate the Name and the Profession](https://leetcode.com/problems/concatenate-the-name-and-the-profession/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/)  | <span style="color:green">Easy</span>      |  pandas  |
