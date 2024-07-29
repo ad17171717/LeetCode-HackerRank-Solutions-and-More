@@ -21,6 +21,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)  | <span style="color:green">Easy</span>      |  Python  |
@@ -44,6 +45,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | <span style="color:green">Easy</span> |  Python  |
 |[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | <span style="color:green">Easy</span> |  Python  |
 |[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)           | <span style="color:green">Easy</span>   |  Python  |
+|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)           | <span style="color:green">Easy</span>   |  Python  |
 |[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)           | <span style="color:green">Easy</span>   |  Python  |
 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)           | <span style="color:green">Easy</span>   |  Python  |
@@ -105,18 +107,23 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Detect Capital](https://leetcode.com/problems/detect-capital)           | <span style="color:green">Easy</span>   |  Python  |
+|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number)           | <span style="color:green">Easy</span>   |  Python  |
 |[Power of Two](https://leetcode.com/problems/power-of-two)           | <span style="color:green">Easy</span>   |  Python  |
 |[Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/)           | <span style="color:green">Easy</span>   |  Python  |
+|[Two Sum](https://leetcode.com/problems/two-sum/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Plus One](https://leetcode.com/problems/plus-one)           | <span style="color:green">Easy</span>   |  Python  |
+|[Decode the Message](https://leetcode.com/problems/decode-the-message/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Power of Three](https://leetcode.com/problems/power-of-three)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/description/)           | <span style="color:green">Easy</span>   |  Python  |
+|[Sum Multiples](https://leetcode.com/problems/sum-multiples/submissions/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)           | <span style="color:green">Easy</span>   |  Python  |
+|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Power of Four](https://leetcode.com/problems/power-of-four)           | <span style="color:green">Easy</span>   |  Python  |
 |[High Five](https://leetcode.com/problems/high-five/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)           | <span style="color:green">Easy</span>   |  Python  |
@@ -207,6 +214,8 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/?lang=pythondata)  | <span style="color:red">Hard</span>      |  pandas  |
 |[Big Countries](https://leetcode.com/problems/big-countries)           | <span style="color:green">Easy</span>   |  SQL  |
+|[Swap Salary](https://leetcode.com/problems/swap-salary/description/)           | <span style="color:green">Easy</span>   |  SQL  |
+
 
 |        Problem Link to HackerRank           |  Difficulty   |  Solution Language(s)  |
 | ------------------------ | ------------- | ---------- |
