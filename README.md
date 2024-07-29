@@ -99,6 +99,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Add Digits](https://leetcode.com/problems/add-digits)           | <span style="color:green">Easy</span>   |  Python  |
 |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)           | <span style="color:green">Easy</span>   |  Python  |
+|[Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/)           | <span style="color:green">Easy</span>   |  Python  |
