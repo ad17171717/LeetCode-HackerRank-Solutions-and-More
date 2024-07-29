@@ -214,6 +214,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/?lang=pythondata)  | <span style="color:red">Hard</span>      |  pandas  |
+|[Generate the Invoice](https://leetcode.com/problems/generate-the-invoice/description/)  | <span style="color:red">Hard</span>      |  pandas  |
 |[Big Countries](https://leetcode.com/problems/big-countries)           | <span style="color:green">Easy</span>   |  SQL  |
 |[Swap Salary](https://leetcode.com/problems/swap-salary/description/)           | <span style="color:green">Easy</span>   |  SQL  |
 
