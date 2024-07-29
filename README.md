@@ -61,6 +61,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)           | <span style="color:green">Easy</span>   |  Python  |
 |[Change Data Type](https://leetcode.com/problems/change-data-type/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)           | <span style="color:green">Easy</span>   |  Python  |
+|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)           | <span style="color:green">Easy</span>   |  Python  |
 |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)           | <span style="color:green">Easy</span>   |  Python  |
