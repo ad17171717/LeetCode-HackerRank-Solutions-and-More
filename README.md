@@ -137,6 +137,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)           | <span style="color:green">Easy</span>   |  Python  |
+|[Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/)           | <span style="color:yellow">Medium</span>   |  Python  |
 |[Permutations](https://leetcode.com/problems/permutations)           | <span style="color:yellow">Medium</span>   |  Python  |
