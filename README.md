@@ -217,6 +217,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/?lang=pythondata)  | <span style="color:red">Hard</span>      |  pandas  |
 |[Generate the Invoice](https://leetcode.com/problems/generate-the-invoice/description/)  | <span style="color:red">Hard</span>      |  pandas  |
 |[Status of Flight Tickets](https://leetcode.com/problems/generate-the-invoice/description/)  | <span style="color:red">Hard</span>      |  pandas  |
+|[Sales by Day of the Week](https://leetcode.com/problems/sales-by-day-of-the-week/description/?lang=pythondata)  | <span style="color:red">Hard</span>      |  pandas  |
 |[Big Countries](https://leetcode.com/problems/big-countries)           | <span style="color:green">Easy</span>   |  SQL  |
 |[Swap Salary](https://leetcode.com/problems/swap-salary/description/)           | <span style="color:green">Easy</span>   |  SQL  |
 
