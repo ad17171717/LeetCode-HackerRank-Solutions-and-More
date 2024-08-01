@@ -94,6 +94,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Binary Number with Alternating Bits ](https://leetcode.com/problems/binary-number-with-alternating-bits)         | <span style="color:green">Easy</span>   |  Python  |
 |[Majority Element](https://leetcode.com/problems/majority-element)           | <span style="color:green">Easy</span>   |  Python  |
 |[Monotonic Array](https://leetcode.com/problems/monotonic-array)           | <span style="color:green">Easy</span>   |  Python  |
+|[Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Move Zeroes ](https://leetcode.com/problems/move-zeroes)           | <span style="color:green">Easy</span>   |  Python  |
 |[Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)           | <span style="color:green">Easy</span>   |  Python  |
