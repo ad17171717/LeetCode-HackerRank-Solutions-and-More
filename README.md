@@ -5,6 +5,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 |[Add Two Integers](https://leetcode.com/problems/add-two-integers/submissions/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Rotate String](https://leetcode.com/problems/rotate-string/description/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Neither Minimum Nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)  | <span style="color:green">Easy</span>      |  Python  |
