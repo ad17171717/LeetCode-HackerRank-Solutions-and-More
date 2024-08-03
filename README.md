@@ -121,6 +121,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Power of Three](https://leetcode.com/problems/power-of-three)           | <span style="color:green">Easy</span>   |  Python  |
+|[Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sum Multiples](https://leetcode.com/problems/sum-multiples/submissions/)           | <span style="color:green">Easy</span>   |  Python  |
