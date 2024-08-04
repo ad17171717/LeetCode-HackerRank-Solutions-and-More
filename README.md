@@ -34,6 +34,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Add Binary](https://leetcode.com/problems/add-binary/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Remove Element](https://leetcode.com/problems/remove-element/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)  | <span style="color:green">Easy</span>      |  Python  |
