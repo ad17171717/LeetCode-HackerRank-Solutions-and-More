@@ -5,6 +5,8 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 | ------------------------ | ------------- | ---------- |
 |[Add Two Integers](https://leetcode.com/problems/add-two-integers/submissions/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Rotate String](https://leetcode.com/problems/rotate-string/description/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Neither Minimum Nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)  | <span style="color:green">Easy</span>      |  Python  |
@@ -122,6 +124,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Power of Three](https://leetcode.com/problems/power-of-three)           | <span style="color:green">Easy</span>   |  Python  |
+|[Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Sum Multiples](https://leetcode.com/problems/sum-multiples/submissions/)           | <span style="color:green">Easy</span>   |  Python  |
@@ -198,6 +201,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[The Winner University](https://leetcode.com/problems/the-winner-university/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/)  | <span style="color:green">Easy</span>      |  pandas  |
