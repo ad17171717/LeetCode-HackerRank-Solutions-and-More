@@ -22,6 +22,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Counting Bits](https://leetcode.com/problems/counting-bits/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/description/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  Python  |
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)  | <span style="color:green">Easy</span>      |  Python  |
