@@ -166,6 +166,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Reported Posts](https://leetcode.com/problems/reported-posts/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Cities in Each State](https://leetcode.com/problems/find-cities-in-each-state/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Premier League Table Ranking](https://leetcode.com/problems/premier-league-table-ranking/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find the Team Size](https://leetcode.com/problems/find-the-team-size/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)  | <span style="color:green">Easy</span>      |  pandas  |
