@@ -178,6 +178,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Bikes Last Time Used](https://leetcode.com/problems/bikes-last-time-used/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[NPV Queries](https://leetcode.com/problems/npv-queries/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
