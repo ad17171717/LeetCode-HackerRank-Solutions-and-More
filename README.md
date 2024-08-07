@@ -163,6 +163,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Method Chaining](https://leetcode.com/problems/method-chaining/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Select Data](https://leetcode.com/problems/select-data/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Warehouse Manager](https://leetcode.com/problems/warehouse-manager/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Reported Posts](https://leetcode.com/problems/reported-posts/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Cities in Each State](https://leetcode.com/problems/find-cities-in-each-state/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
