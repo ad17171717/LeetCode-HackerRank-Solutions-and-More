@@ -134,6 +134,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)           | <span style="color:green">Easy</span>   |  Python  |
 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Power of Four](https://leetcode.com/problems/power-of-four)           | <span style="color:green">Easy</span>   |  Python  |
+|[Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[High Five](https://leetcode.com/problems/high-five/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Implement strStr()](https://leetcode.com/problems/implement-strstr)           | <span style="color:green">Easy</span>   |  Python  |
