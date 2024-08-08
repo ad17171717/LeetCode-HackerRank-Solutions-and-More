@@ -94,6 +94,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)           | <span style="color:green">Easy</span>   |  Python  |
 |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)           | <span style="color:green">Easy</span>   |  Python  |
+|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)     | <span style="color:green">Easy</span>   |  Python  |
