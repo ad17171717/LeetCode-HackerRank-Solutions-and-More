@@ -209,6 +209,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Total Traveled Distance](https://leetcode.com/problems/total-traveled-distance/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[The Winner University](https://leetcode.com/problems/the-winner-university/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  | <span style="color:green">Easy</span>      |  pandas  |
