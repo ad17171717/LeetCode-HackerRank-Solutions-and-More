@@ -26,6 +26,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements/description/)  | <span style="color:green">Easy</span>      |  Python  |
