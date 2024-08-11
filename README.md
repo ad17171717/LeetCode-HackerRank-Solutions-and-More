@@ -233,6 +233,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Apples & Oranges](https://leetcode.com/problems/apples-oranges/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Tasks Count in the Weekend](https://leetcode.com/problems/tasks-count-in-the-weekend/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
+|[Manager of the Largest Department](https://leetcode.com/problems/manager-of-the-largest-department/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/?lang=pythondata)  | <span style="color:red">Hard</span>      |  pandas  |
