@@ -44,6 +44,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)  | <span style="color:green">Easy</span>      |  Python  |
+|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)  | <span style="color:green">Easy</span>      |  Python  |
 |[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)  | <span style="color:green">Easy</span>      |  Python  |
