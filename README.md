@@ -233,6 +233,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/description/)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Rank Scores](https://leetcode.com/problems/rank-scores/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
+|[Drop Type 1 Orders for Customers With Type 0 Orders](https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Apples & Oranges](https://leetcode.com/problems/apples-oranges/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
