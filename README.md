@@ -41,6 +41,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Remove Element](https://leetcode.com/problems/remove-element/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Contains Duplicate](https://leetcode.com/problems/richest-customer-wealth)  | <span style="color:green">Easy</span>      |  Python  |
+|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  | <span style="color:green">Easy</span>      |  Python  |
 |[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)  | <span style="color:green">Easy</span>      |  Python  |
