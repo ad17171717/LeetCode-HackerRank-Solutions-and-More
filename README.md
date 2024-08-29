@@ -226,6 +226,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Calculate Compressed Mean](https://leetcode.com/problems/calculate-compressed-mean/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Second Day Verification](https://leetcode.com/problems/second-day-verification/description/)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Form a Chemical Bond](https://leetcode.com/problems/form-a-chemical-bond/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Highest Salaries Difference](https://leetcode.com/problems/highest-salaries-difference/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
@@ -239,6 +240,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Apples & Oranges](https://leetcode.com/problems/apples-oranges/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
+|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Tasks Count in the Weekend](https://leetcode.com/problems/tasks-count-in-the-weekend/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Manager of the Largest Department](https://leetcode.com/problems/manager-of-the-largest-department/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
 |[Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/description/?lang=pythondata)  | <span style="color:yellow">Medium</span>      |  pandas  |
