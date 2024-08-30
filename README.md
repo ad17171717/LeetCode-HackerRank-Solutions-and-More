@@ -56,6 +56,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)           | <span style="color:green">Easy</span>   |  Python  |
 |[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)           | <span style="color:green">Easy</span>   |  Python  |
+|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)           | <span style="color:green">Easy</span>   |  Python  |
 |[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)           | <span style="color:green">Easy</span>   |  Python  |
 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)           | <span style="color:green">Easy</span>   |  Python  |
