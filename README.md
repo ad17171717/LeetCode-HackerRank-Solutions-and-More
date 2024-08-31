@@ -219,6 +219,7 @@ A portfolio of my LeetCode solutions as well as solutions from other sites. Will
 |[Total Traveled Distance](https://leetcode.com/problems/total-traveled-distance/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Students with Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[The Winner University](https://leetcode.com/problems/the-winner-university/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
+|[Sales Person](https://leetcode.com/problems/sales-person/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?lang=pythondata)  | <span style="color:green">Easy</span>      |  pandas  |
 |[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/)  | <span style="color:green">Easy</span>      |  pandas  |
